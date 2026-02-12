@@ -44,9 +44,9 @@ bult-hand-gangster/
     └── index.html
 
 # ⚙️ Installation
-git clone https://github.com/yourusername/hand-gangster-project.git
+git clone https://github.com/rajdipsaha-arch/hand-gangster-project.git
 cd hand-gangster-project
-pip install -r requirements.txt
+pip install -r requirem³ents.txt
 python main.py
 
 # 🎮 How It Works
